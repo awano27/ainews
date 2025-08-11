@@ -1,0 +1,15 @@
+{
+  "items": [
+    {"body": "大手クラウドが推論単価の改定を発表。対象SKUと適用開始日を一次情報で確認済み。既存見積やPoCの前提が変わるため、原価表と社内周知を即日更新。", "sources": [{"label": "価格ページ", "url": "https://example.com/pricing"}, {"label": "発表ブログ", "url": "https://example.com/blog"}]},
+    {"body": "所管当局が生成AI関連ガイダンス改定案の意見募集を開始。適用範囲・義務・期日を確認し、越境移転・委託条項・社内規程の差分影響を整理。", "sources": [{"label": "官庁PDF", "url": "https://example.com/gov.pdf"}]},
+    {"body": "主要基盤モデルの商用規約が改定。免責・禁止用途・監査条項の変更により、導入・提供の可否と監査対応へ影響。規約差分の精査と周知を実施。", "sources": [{"label": "Terms", "url": "https://example.com/terms"}]},
+    {"body": "EU AI Act 実施規則案が公開。分類・義務・適用時期が具体化し、高リスク該当判定と準備項目が明確に。適用判定テンプレを更新。", "sources": [{"label": "EUR-Lex", "url": "https://example.com/eu"}]},
+    {"body": "米当局がAI透明性・リスク指針を更新。期待要件と監督枠組みを提示。海外拠点を含むグローバル方針の整合確認が必要。", "sources": [{"label": "原典", "url": "https://example.com/us"}]},
+    {"body": "国内大手が社内検索にRAGを導入。統制設計と評価指標を公開し、社内展開のROI検討の参考に。", "sources": [{"label": "リリース", "url": "https://example.com/jp"}]},
+    {"body": "SaaSが日本向けAI機能を一般提供。価格・データ境界・保護措置を明確化し、段階導入を推奨。", "sources": [{"label": "製品Docs", "url": "https://example.com/docs"}]},
+    {"body": "基盤モデル新版を公開。長文文脈と料金改定があれば、設計とコストを再試算。ベンチ再測と切替計画を実施。", "sources": [{"label": "Model Card", "url": "https://example.com/card"}]},
+    {"body": "主要ベンダーが価格/機能を更新。SLAや適用条件の差分がTCOに影響。契約差分のレビューと影響試算を実施。", "sources": [{"label": "リリースノート", "url": "https://example.com/release"}]},
+    {"body": "生成AIの著作権/個情で新通達・判断が公表。適用範囲や責任分担を確認し、規約とプライバシー通知を改版。", "sources": [{"label": "当局文書", "url": "https://example.com/authority"}]}
+  ]
+}
+
